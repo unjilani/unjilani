@@ -1,9 +1,58 @@
 <h1 align="center">Hi 👋, I'm Umer Jilani</h1>
-<h3 align="center">A passionate Network Security & DevOps Expert from Saudi Arabia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unjilani&label=Profile%20views&color=0e75b6&style=flat" alt="unjilani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unjilani" alt="unjilani" /></a> </p>
+
+# 💼 Network Security & DevOps Portfolio
+
+Welcome to my professional portfolio! I am a seasoned expert in **Network Security**, **Cloud Security**, and **DevOps** practices. This repository highlights my skills, tools, and areas of specialization within modern IT infrastructure and security domains.
+
+---
+
+## 🔐 Network Security Expertise
+
+I have hands-on experience configuring, managing, and securing enterprise-grade firewall systems:
+
+- **Cisco ASA / Firepower**
+- **Juniper SRX**
+- **Palo Alto Networks (PAN-OS)**
+- **Fortinet FortiGate**
+- **Zscaler Internet Access (ZIA) / Private Access (ZPA)**
+- **Splunk, Panorama, Netcool And Wireshark**
+
+**Key Areas:**
+- Network segmentation & access control
+- VPN and IPsec tunnel configuration
+- Application-level firewalling & threat prevention
+- Logging, alerting, and security policy tuning
+- Monitoring tools
+- Scripting using Python and Bash
+- Familiarity with protocols include Routing , Security and TCP/IP.
+---
+
+## ☁️ Cloud Security (AWS)
+
+Currently focusing on securing cloud-native applications and services on **Amazon Web Services (AWS)**.
+
+**Skills Include:**
+- IAM Policies & Role-Based Access Control
+- Security Groups, NACLs, VPC Flow Logs
+- AWS WAF, GuardDuty, CloudTrail, Config
+- Secure S3, EC2, EKS, and Lambda configurations
+
+---
+
+## 🐳 DevOps & Containerization
+
+Strong background in automation and DevOps tools to enhance reliability and efficiency in deployment pipelines.
+
+- **Docker**: Container image creation, networking, and orchestration basics
+- **Linux**: System administration, shell scripting, hardening
+- **Python**: Custom security tools, automation scripts, API integrations
+- **Jenkins**: CI/CD pipeline tools for automation 
+
+---
 
 - 🔭 I’m currently working on **ECS & Container Orchestration**
 
@@ -21,7 +70,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/unjilani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="unjilani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/umerjilani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="unjilani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
