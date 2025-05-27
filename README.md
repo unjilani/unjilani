@@ -54,6 +54,37 @@ Strong background in automation and DevOps tools to enhance reliability and effi
 
 ---
 
+## 📂 Projects (Coming Soon)
+
+| Project | Description | Tools |
+|--------|-------------|-------|
+| 🔒 Secure CI/CD Pipeline | Integrated security scanning into a CI/CD workflow | Jenkins, Docker, Python, AWS |
+| 🌐 Multi-Vendor Firewall Automation | Automated rule configuration across firewall vendors | Python, REST APIs |
+| ☁️ Cloud Security Audit Toolkit | Scripts and templates to audit AWS accounts | AWS CLI, Boto3, Python |
+
+---
+
+## 📜 Certifications
+
+- Palo Alto Networks PCNSA / PCNSE
+- Zscaler ZCCA-IA / ZCCP
+- Google Cybersecurity Professional Certification (2025 – 2028)
+- AWS Certified Cloud Practitioner (2025 – 2028)
+- DevOPS Program certified (2025)
+- CCIE Security v5.0 (48581) (2019 – Present)
+- CCIE Enterprise Infrastructure (48581) (2015 – Present)
+- Fortinet Certified Professional Network Security
+- CompTIA Security+
+- Zscaler Zero Trust Certified Associate Certification (2024 – 2027)
+- Palo Alto Networks Certified Network Security Engineer (2018- 2020)
+- Cisco Certified Design Specialist
+- CCNA Wireless (2016 – Present)
+- VMware Certified Implementation Expert 6 (VCIX-NV) (2018 – Present)
+- Wireshark Packet Capture Analysis
+
+
+---
+
 - 🔭 I’m currently working on **ECS & Container Orchestration**
 
 - 🌱 I’m currently learning **Cloud and DevOps Security**
