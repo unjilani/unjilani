@@ -67,8 +67,6 @@ Strong background in automation and DevOps tools to enhance reliability and effi
 
 ## 📜 Certifications
 
-- Palo Alto Networks PCNSA / PCNSE
-- Zscaler ZCCA-IA / ZCCP
 - Google Cybersecurity Professional Certification (2025 – 2028)
 - AWS Certified Cloud Practitioner (2025 – 2028)
 - DevOPS Program certified (2025)
