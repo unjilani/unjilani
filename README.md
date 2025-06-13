@@ -54,14 +54,14 @@ Strong background in automation and DevOps tools to enhance reliability and effi
 
 ---
 
-## 📂 Projects (Coming Soon)
+## 📂 Projects
 
 | Project | Description | Tools |
 |--------|-------------|-------|
 | 🔒 Secure CI/CD Pipeline | Integrated security scanning into a CI/CD workflow | Jenkins, Docker, Python, AWS |
 | 🌐 Multi-Vendor Firewall Automation | Automated rule configuration across firewall vendors | Python, REST APIs |
 | ☁️ Cloud Security Audit Toolkit | Scripts and templates to audit AWS accounts | AWS CLI, Boto3, Python |
-| 🔒 Multi-Container Web and Database application orchesterate via Docker Compose | Create a Data front-end form, store it in a database, and display it on the web page | CSS , Flask, PostgresSQL, HTM |
+| 🔒 Multi-Container Web and Database application orchesterate via Docker Compose | Create a Data front-end form, store it in a database, and display it on the web page | PostgresSQL, Python |
 
 ---
 
