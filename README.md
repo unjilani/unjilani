@@ -20,6 +20,7 @@ I have hands-on experience configuring, managing, and securing enterprise-grade 
 - **Fortinet FortiGate**
 - **Zscaler Internet Access (ZIA) / Private Access (ZPA)**
 - **Splunk, Panorama, Netcool And Wireshark**
+- **FortiSanbox & FortiWeb**
 
 **Key Areas:**
 - Network segmentation & access control
