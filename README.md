@@ -95,8 +95,6 @@ Strong background in automation and DevOps tools to enhance reliability and effi
 
 - 💬 Ask me about **network & security**
 
-- 📫 How to reach me **umerjilani1803@gmail.com**
-
 - ⚡ Fun fact **I’ve slept under the stars in desert.**
 
 <h3 align="left">Connect with me:</h3>
