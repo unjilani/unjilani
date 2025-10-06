@@ -15,6 +15,7 @@ Welcome to my professional portfolio! I am a seasoned expert in **Network Securi
 I have hands-on experience configuring, managing, and securing enterprise-grade firewall systems:
 
 - **Cisco ASA / Firepower**
+- **Forescout**
 - **Juniper SRX**
 - **Palo Alto Networks (PAN-OS)**
 - **Fortinet FortiGate**
@@ -30,6 +31,7 @@ I have hands-on experience configuring, managing, and securing enterprise-grade 
 - Monitoring tools
 - Scripting using Python and Bash
 - Familiarity with protocols include Routing , Security and TCP/IP.
+- Vulnerability Assessment
 ---
 
 ## ☁️ Cloud Security (AWS)
@@ -68,11 +70,11 @@ Strong background in automation and DevOps tools to enhance reliability and effi
 
 ## 📜 Certifications
 
+- CCIE Security v5.0 (48581) (2019 – Present)
+- CCIE Enterprise Infrastructure (48581) (2015 – Present)
 - Google Cybersecurity Professional Certification (2025 – 2028)
 - AWS Certified Cloud Practitioner (2025 – 2028)
 - DevOPS Program certified (2025)
-- CCIE Security v5.0 (48581) (2019 – Present)
-- CCIE Enterprise Infrastructure (48581) (2015 – Present)
 - Fortinet Certified Professional Network Security
 - CompTIA Security+
 - Zscaler Zero Trust Certified Associate Certification (2024 – 2027)
@@ -84,8 +86,6 @@ Strong background in automation and DevOps tools to enhance reliability and effi
 
 
 ---
-
-- 🔭 I’m currently working on **ECS & Container Orchestration**
 
 - 🌱 I’m currently learning **Cloud and DevOps Security**
 
